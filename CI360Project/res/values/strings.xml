@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CI360Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Welcome</string>
+    <string name="app_title">CI360</string>
+    <string name="btn_login">Login</string>
+    
+    <string name="facebook_app_id">725044224232637</string>
+    <string name="shopify_api_key">a38161611e8fd3106db7e8fb10756491</string>
+    <string name="shopify_shared_secret">c7c5fd974a29f723d70ebf9291605183</string>
+    <string name="shopify_shop_name_heading">Damian</string>
+    <string name="dot_myshopify_dot_com">.myshopify.com</string>
+    <string name="shopify_shop_name_hint">snowdevil</string>
+    <string name="authorize">Authorize</string>
+    <string name="missingShopName">Shop name is missing</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_friends_list">FriendsList</string>
+    <string name="title_activity_friend">FriendActivity</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_workout">WorkoutActivity</string>
+    <string name="title_activity_edit_workout">EditWorkoutActivity</string>
+
+</resources>
